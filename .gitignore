@@ -1,0 +1,21 @@
+# Packed brains: oa-tool brain pack writes these from the folders.
+*.oabrain
+
+# Training and conversion scratch: records, models before conversion, logs.
+*.onnx
+*.jsonl
+*.trace
+*.log
+
+# Local work.
+/build/
+/local/
+/scratch/
+
+# Editors and systems.
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.vscode/
+.idea/

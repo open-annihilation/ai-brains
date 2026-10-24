@@ -1,0 +1,4 @@
+# A brain is recognised and its networks checked by the exact bytes of its
+# files, so every file is kept as committed: no line-ending conversion on any
+# system.
+* -text
