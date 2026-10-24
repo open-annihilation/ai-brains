@@ -45,10 +45,10 @@ works with), an entry script (usually `brain.lua`) and any modules it loads
 from `lua/`. A brain that uses neural networks also carries them as `.oann`
 files under `nets/`. The engine documents the format and the whole Lua API:
 
-- [The OABrain standard](https://github.com/open-annihilation/open-annihilation/blob/lua-brains/docs/brains/oabrain-standard.md):
+- [The OABrain standard](https://github.com/open-annihilation/open-annihilation/blob/main/docs/brains/oabrain-standard.md):
   the package, the manifest, the runtime, its budgets, and every call a brain
   may make.
-- [Writing a brain](https://github.com/open-annihilation/open-annihilation/blob/lua-brains/docs/brains/authoring.md):
+- [Writing a brain](https://github.com/open-annihilation/open-annihilation/blob/main/docs/brains/authoring.md):
   a first brain from an empty folder to a played match, then a walk through
   Classic.
 
